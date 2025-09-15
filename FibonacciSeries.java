@@ -1,7 +1,6 @@
 // ⁠Write a program to print the Fibonacci series up to a given number of terms.
 // 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 = 0+1=1.... 1+1=2.... 1+2=3...  2+3=5..........
 
-
 import java.util.Scanner;
 
 public class FibonacciSeries{
